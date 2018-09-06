@@ -1,0 +1,33 @@
+
+@media (min-width: 992px) and (max-width: 1199px) { 
+	.main-content h2 {
+	    font-size: 30px;
+	}
+ }
+ @media (min-width: 640px) and (max-width: 991px) { 
+	.main-content h2 {
+	    font-size: 30px;
+	}
+ }
+ @media (min-width: 640px) and (max-width: 991px) { 
+	.main-content h2 {
+	    font-size: 30px;
+	    padding-left: 20px;
+	    padding-right: 20px;
+	}
+ }
+ @media (min-width: 320px) and (max-width: 639px) { 
+	.main-content h2 {
+	    font-size: 30px;
+	    padding-left: 20px;
+	    padding-right: 20px;
+	}
+ }
+@media (min-width: 320px) and (max-width: 767px) { 
+	.images-main img{
+		width: 70%;
+	}
+	.dispaly{
+		display: none;
+	}
+ }

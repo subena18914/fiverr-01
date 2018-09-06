@@ -1,0 +1,298 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.clr{
+	clear: both;
+}
+h1,h2,h3,h4,h5,h6,p{
+	padding: 0;
+	margin: 0;
+}
+a{
+	text-decoration: none;
+	display: inline-block;
+}
+a:hover{
+    text-decoration: none;
+}
+ul,ol{
+	list-style: none;
+}
+li{
+	
+    text-align: left;
+}
+.banner-section{
+ 	background: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+}
+body{
+	font-family: 'helvetica', 'arial', 'sans serif';
+}
+	
+.banner-inner{
+	/*background: rgba(33,36,49, .9);*/
+	padding: 100px 0px 0px;
+}
+
+.banner-content{}
+.banner-logo{
+	margin-bottom: 50px;
+}
+.banner-heading{}
+.banner-heading h1{
+	font-size: 48px;
+	line-height: 1.8em;
+	font-weight: bolder;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+}
+.banner-heading p{
+	font-size: 18px; 
+	padding-bottom: 20px;
+
+}
+.banner-button{
+	background: #18AAE7;
+	display: inline-block;
+	padding: 20px 50px;
+	margin-top: 20px;
+}
+.banner-button a{
+	color: #ffffff;
+	font-size: 16px;
+	line-height: 19px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.logocompnay{
+	background: #18AAE7;
+	overflow: hidden;
+	padding: 20px 0px;
+	margin-top: 50px;
+}
+.logocompnay h2{
+	padding-bottom: 30px;
+	font-size: 20px;
+}
+/*social services section css start*/
+.social-services{
+	padding: 100px 0px;
+}
+.social-services-content{}
+.social-services-iteam{}
+.social-services-iteam img{
+	width: 120px;
+	height: 120px;
+}
+.social-services-iteam h3{
+	font-size: 26px;
+	padding: 15px 0px;
+	font-weight: bolder;
+}
+.social-services-iteam p{
+	max-width: 250px;
+	margin: 0 auto;
+	font-size: 16px;
+}
+/*register-section css start*/
+.register-section{
+	background: #F7F7F7;
+	padding: 100px 0px 0px;
+}
+.register-iteams{
+	overflow: hidden;
+}
+.register-content{
+	padding-top: 100px;
+}
+.register-content h3{
+	font-size:28px;
+	color:rgb(82,107,171);
+	font-weight: bolder;
+}
+.register-content p{
+	font-size:20px;
+	color:#808080;
+	max-width: 500px;
+	padding-top:10px;
+}
+.register-contents{}
+.register-contents p{
+	margin: 0 auto;
+	padding-bottom: 30px;
+}
+.register-iteam{
+	padding-bottom: 0px !important;
+}
+.img1 img{
+	float: right;
+}
+
+/*testimonail css start*/
+.testimonail{
+	background: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    padding: 100px 0px 0px;
+}
+.testimonail-content{}
+.testimonail-content h2{
+	padding-bottom: 20px;
+}
+.testimonail-content p{
+	padding-bottom: 10px;
+	font-size: 14px;
+	color: #21AEDE;
+}
+.testimonail-content ul{}
+.testimonail-content ul li{}
+.testimonail-content ul li i{
+	padding-right: 10px;
+	color: #21AEDE;
+}
+.testimonail-content ul li a{
+	color: #ffffff;
+}
+/*peoplesay-section css start*/
+.peoplesay-section{
+	padding: 100px 0px;
+}
+.people-top{}
+.people-top h2{
+	padding-bottom: 50px;
+	font-weight: bolder;
+	color: #21AEDE;
+}
+.people-iteams{}
+.people-iteam{}
+.people-iteam img{
+	border-radius: 100%;
+	border:3px solid  #21AEDE;
+}
+.people-iteam h3{
+	padding: 10px 0px;
+	font-weight: bolder;
+	color: #21AEDE;
+	font-size: 18px;
+}
+.people-iteam h4{
+	padding-bottom: 10px;
+	
+}
+.people-iteam p{
+
+}
+/*signup-section css start*/
+.signup-section{
+	background: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    padding: 100px 0px 100px;
+}
+.form{
+	width: 50%;
+	margin: 0 auto;
+}
+.signup-content{}
+.signup-content h2{
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #21AEDE;
+}
+.signup-content p{
+	text-align: center;
+	width: 50%;
+	margin: 0 auto;
+	padding: 20px  0px 40px;
+}
+.form-group label{
+	text-transform: capitalize;
+}
+.btn-primary{
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+
+
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
